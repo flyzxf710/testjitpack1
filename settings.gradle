@@ -1,0 +1,2 @@
+include ':app', ':myjitpacklibrary'
+rootProject.name='MyJitPack'
